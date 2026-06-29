@@ -1,0 +1,39 @@
+Syntax: ChapterGen -i <inputfile> -o <outputfile> -f <destination format> -infps <inputFPS> -outfps <outputFPS> 
+
+Options:
+
+-i <string>	Specify input file
+-o <string>	Specify output file
+-f <string>	Specify destination format:
+		- OGG: OGG Text File
+		- x264: x264 QP Text File
+		- HC: HC Enc Text File
+		- CCE: CCE SP Text File
+		- Cinevision: Sonic Cinevision CSV File
+		- Scenarist: Sonic Scenarist CSV File
+		- Maestro: Spruce DVD Maestro CHP File
+		- tsMuxer: tsMuxer Meta File
+		- Timecodes: Timecodes Text File
+		- Celltimes: Celltimes Text File
+		- DVDAuthor: DVDAuthor Text File
+		- Muxman: Muxman Text File
+-infps <float>	Specify InputFPS [24/1.001] 
+		- 23.976
+		- 24.000
+		- 25.000
+		- 29.970
+		- 30.000
+		- 50.000
+		- 50.940
+		- 60.000
+-outfps <float>	Specify OutputFPS [24/1.001] 
+		- 23.976
+		- 24.000
+		- 25.000
+		- 29.970
+		- 30.000
+		- 50.000
+		- 50.940
+		- 60.000
+
+NOTES: fps values can be aslo entered in this formats: 24000/1001 or 24/1.001 for example
