@@ -2,9 +2,16 @@
 a ChapterGen 1.0.8 mod that is fully portable
 
 
+
+
+
 ## About ChapterGen
 Chaptergen is a simple chapter editor. Manipulate with chapters in various i/o formats, with CLI support. Additional features: Converting between framerates, Stream selector when Blu-Ray, HD DVD, DVD media or folder selected, Command line support, Drag & Drop support.
 
+
+##Download:
+To download this version: https://github.com/animefn/ChapterGen_portableMod/archive/refs/tags/1.08.zip
+Original source for this software: https://www.videohelp.com/software/ChapterGen
 
 ## My motivation behind this repo
 The tool is just simply great, it never got the publicity it deserved.
