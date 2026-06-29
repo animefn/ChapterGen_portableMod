@@ -1,5 +1,5 @@
 # ChapterGen_portableMod.rar
-a ChapterGen 1.0.8 mod that is fully portable
+A ChapterGen 1.0.8 mod that is fully portable
 
 
 
